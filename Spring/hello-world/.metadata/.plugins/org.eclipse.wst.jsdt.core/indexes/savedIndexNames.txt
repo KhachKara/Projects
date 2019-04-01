@@ -4,4 +4,5 @@ INDEX VERSION 1.4+D:\Облоко Mail.ru\Projects\Spring\hello-world\.metadata\.plugi
 2566349397.index
 3010846462.index
 3914187672.index
+2872446435.index
 446241450.index
