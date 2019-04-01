@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Облоко Mail.ru\Projects\Spring\hello-world\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3246010575.index
+1659342888.index
+2566349397.index
+3010846462.index
+3914187672.index
+446241450.index

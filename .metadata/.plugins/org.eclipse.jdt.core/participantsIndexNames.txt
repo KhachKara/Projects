@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Облоко Mail.ru\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2872446435.index
+\hello-world\src\main\java
