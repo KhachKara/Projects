@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/applicationContext.xml</name>
+			<type>1</type>
+			<location>D:/Облоко Mail.ru/Курсы/Spring &amp; Hibernate for Beginners (includes Spring Boot)/Spring &amp; Hibernate for Beginners/04. Spring Inversion of Control - XML Configuration/applicationContext.xml</location>
+		</link>
+	</linkedResources>
 </projectDescription>
