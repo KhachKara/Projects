@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8129698a-02e4-4be4-8cf7-2c6021f4d280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_To_EXE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Pandas_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_to_exe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring-Hibernate/spring-demo-annotations/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring-Hibernate/spring-demo-annotations/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring-Hibernate/spring-demo-annotations/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring-Hibernate/spring-demo-annotations/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_To_EXE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_To_EXE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_to_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_to_exe.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_to_exe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state>
+              <caret column="39" selection-start-column="29" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -105,7 +103,28 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Python_to_exe" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_To_EXE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\khach\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python_to_exe" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_To_EXE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +161,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.019011406" />
@@ -150,10 +168,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5006337" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5006337" side_tool="true" weight="0.19246298" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49936628" visible="true" weight="0.19246298" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49936628" weight="0.19246298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_to_exe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state>
+          <caret column="39" selection-start-column="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
