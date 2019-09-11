@@ -69,8 +69,8 @@ body {
 	font-weight: 400;
 	line-height: 1.5;
 	color: #212529;
-	text-align: left;
-	background-color: #fff
+	text-align: center;
+	background-color: #fff;
 }
 
 [tabindex="-1"]:focus {
@@ -10340,65 +10340,84 @@ a.text-dark:hover {
 	}
 }
 
+.container_khach {
+	padding: 20px;
+}
+
 .nachalo{
 	position: relative;
-	/*width: 1255px;*/
-	height: 678px;
+	width: 100%;
+	/*height: 678px;*/
 	background: #F3F3F3;
 	border: 2px solid black;
+	padding: 33px;
 }
 
 .Rectangle_2{
-	position: relative;
 	width: 45%;
 	height: 60px;
-	left: 33px;
 	top: 35px;
 	background: #FFFFFF;
 	box-shadow: inset 2px 3px 4px rgba(0, 0, 0, 0.25);
 	border-radius: 10px;
-	border: 2px solid black;
+	/*border: 2px solid black;*/
+	float: left;
+	margin-right: 50px;
+}
+
+/*.button.knopka {
+	color: #fff; 
+	background: #FFA500; 
+	padding: 5px; 
+	border-radius: 5px;
+	border: 2px solid #FF8247;
+} 
+*/
+.knopka:hover { 
+	background: #FF6347; 
 }
 
 .Rectangle_21 {
-	position: absolute;
-	width: 30%;
+	width: 15%;
 	height: 60px;
-	left: 600px;
 	top: 35px;
 	background: linear-gradient(360deg, #2DB1CE 0%, #6ADDF7 100%);
 	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
 	border-radius: 10px;
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 43px;
 }
 
-.Connect{
-	/*position: absolute;*/
-	padding-right: 15px;
-	padding-left: 15px;
-	margin-right: auto;
-	margin-left: auto
-	
-	width: 104px;
-	height: 33px;
-	left: 952px;
-	top: 48px;
-
+.text_center { 
+	padding-top: 10px;
+	width: 100%;
+	height: 60px;
+	font-size: 150%; 
 	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 28px;
-	line-height: 33px;
- 
-	color: #FFFFFF;
 }
 
-.Ellipse{
-	/*position: absolute;*/
-	width: 43px;
-	height: 43px;
-	left: 1000px;
-	top: 46px;
-	background: radial-gradient(18.15px at 43% 34%, #FD9777 0%, rgba(255, 165, 137, 0) 100%), #DD6039;
-	box-shadow: 0px 0px 11px #DB562C;
+.ellipse{
+	width: 63px;
+	height: 63px;
+	background: url(shariki.svg)135px;
+	float: left;
+	margin-right: 150px;
+}
+
+.indent{
+	width: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	float: left;
+}
+
+.Rectangle_3{
+	position: relative;
+	width: 100%;
+	height: 480px;
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	padding: 20px;
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
